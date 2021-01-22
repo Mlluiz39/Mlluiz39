@@ -21,8 +21,9 @@ I am currently an **IT student** here in Brazil in the third semester of the fac
 analysis and systems development, at Laureate International Universities FMU.
 
 #### Quanto mais eu descubro sobre TI mais eu quero estudar.
-**Tecnologias estudas no momento**
 :computer:
+**technologies currently being studied**
+
 - HTML
 - CSS
 - Javascript
