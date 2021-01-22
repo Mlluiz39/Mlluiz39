@@ -9,7 +9,7 @@ analysis and systems development, at Laureate International Universities FMU.
 
 #### Quanto mais eu descubro sobre TI mais eu quero estudar. :rocket:
 :computer:
-**technologies currently being studied**
+🚀💻 Technologies & Tools
 
 - HTML
 - CSS
