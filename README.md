@@ -3,7 +3,7 @@
 ## *Hello, my name is Marcelo Luiz* 👋
 
 
-I am currently an **IT student** here in Brazil in the third semester of the faculty of 
+I am currently an **IT student** here in Brazil the third semester of the faculty  
 
 analysis and systems development, at Laureate International Universities FMU.
 
