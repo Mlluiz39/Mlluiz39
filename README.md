@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently an IT student in the third semester of the faculty of analysis and systems development, at Laureate International Universities FMU.
+I am currently an **IT student** in the third semester of the faculty of
+analysis and systems development, at Laureate International Universities FMU.
