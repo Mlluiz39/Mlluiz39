@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently an **IT student** here in Brazil :br: in the third semester of the faculty of 
+I am currently an **IT student** here in Brazil :fr: in the third semester of the faculty of 
 
 analysis and systems development, at Laureate International Universities FMU.
 
