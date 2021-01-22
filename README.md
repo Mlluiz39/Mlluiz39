@@ -21,5 +21,5 @@ analysis and systems development, at Laureate International Universities FMU.
 
 ## ⚡GitHub Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mlluiz39&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mlluiz39&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
