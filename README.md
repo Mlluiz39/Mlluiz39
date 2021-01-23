@@ -7,7 +7,7 @@ I am currently an **IT student** here in Brazil the third semester of the facult
 
 analysis and systems development, at Laureate International Universities FMU.
 
-#### Quanto mais eu descubro sobre TI mais eu quero estudar.
+#### The more I find out about IT the more I want to study
 ## 🚀💻 Technologies & Tools
 
 - HTML
