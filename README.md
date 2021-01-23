@@ -21,7 +21,7 @@ analysis and systems development, at Laureate International Universities FMU.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mlluizpereira39@gmail.com)](mailto:mlluizpereira39@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-luiz-pereira-souza/)](https://www.linkedin.com/in/marcelo-luiz-pereira-souza/)
 
-## ⚡GitHub Stats
+## ⚡ GitHub Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mlluiz39&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mlluiz39&layout=compact)](https://github.com/Mlluiz39/github-readme-stats)
 
