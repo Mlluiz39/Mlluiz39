@@ -13,7 +13,7 @@ analysis and systems development, at Laureate International Universities FMU.
 - HTML
 - CSS
 - JavaScript
-- Python
+- PHP
 
 ## About Me
 [![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977869073&text=hello!)](https://api.whatsapp.com/send?phone=5511977869073&text=hello!)
