@@ -10,10 +10,14 @@ analysis and systems development, at Laureate International Universities FMU.
 #### The more I find out about IT the more I want to study
 ## 🚀💻 Technologies & Tools
 
-- HTML
-- CSS
+- HTML5
+- CSS3
+- Tailwind
 - JavaScript
-- PHP
+- NodeJs
+- React
+- React Native
+- Docker
 
 ## About Me
 [![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977869073&text=hello!)](https://api.whatsapp.com/send?phone=5511977869073&text=hello!)
