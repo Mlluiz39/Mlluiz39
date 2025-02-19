@@ -3,9 +3,8 @@
 ## *Hello, my name is Marcelo Luiz* 👋
 
 
-I am currently an **IT student** here in Brazil the third semester of the faculty  
+I'm currently an **IT student** here in Brazil, with a degree in Systems Analysis and Development from Laureate International Universities FMU, and a postgraduate degree in Mobile Development from Unileya.
 
-analysis and systems development, at Laureate International Universities FMU.
 
 #### The more I find out about IT the more I want to study
 ## 🚀💻 Technologies & Tools
@@ -18,6 +17,8 @@ analysis and systems development, at Laureate International Universities FMU.
 - React
 - React Native
 - Docker
+- PostgresSQL
+- MySQL
 
 ## About Me
 [![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977869073&text=hello!)](https://api.whatsapp.com/send?phone=5511977869073&text=hello!)
