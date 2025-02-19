@@ -22,9 +22,9 @@ I'm currently an **IT student** here in Brazil, with a degree in Systems Analysi
 
 ## About Me
 [![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977869073&text=hello!)](https://api.whatsapp.com/send?phone=5511977869073&text=hello!)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mlluiz/?viewas=100000686899395)](https://www.facebook.com/mlluiz/?viewas=100000686899395)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mlluizpereira39@gmail.com)](mailto:mlluizpereira39@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-luiz-pereira-souza/)](https://www.linkedin.com/in/marcelo-luiz-pereira-souza/)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)(https://marcelo-luiz.netlify.app/)
 
 ## ⚡ GitHub Stats
 
