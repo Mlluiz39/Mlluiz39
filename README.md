@@ -2,7 +2,7 @@
 
 #### Quanto mais eu descubro sobre TI, mais eu quero estudar.
 
-## 🚀💻 Technologies & Tools
+## 🚀💻  Tecnologias e ferramentas
 
 - HTML5
 - CSS3
